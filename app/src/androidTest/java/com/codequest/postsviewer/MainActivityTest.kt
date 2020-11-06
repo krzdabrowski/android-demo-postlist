@@ -5,6 +5,7 @@ import androidx.test.espresso.assertion.ViewAssertions.matches
 import androidx.test.espresso.matcher.ViewMatchers.*
 import androidx.test.ext.junit.runners.AndroidJUnit4
 import androidx.test.rule.ActivityTestRule
+import com.codequest.postsviewer.presentation.MainActivity
 import com.codequest.postsviewer.utils.atPositionOnView
 import com.codequest.postsviewer.utils.wait
 import org.junit.Rule

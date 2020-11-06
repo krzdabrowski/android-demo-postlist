@@ -1,4 +1,4 @@
-package com.codequest.postsviewer
+package com.codequest.postsviewer.presentation
 
 import android.view.View
 import android.view.ViewGroup
